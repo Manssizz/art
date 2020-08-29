@@ -9,7 +9,7 @@
 | art-ar9220-ar9223.bin | CPU: AR9220 + Wireless: AR9223 | Netgear WNDR3700 v2 |
 | art-ar9220-ar9223 (?).bin | | Netgear WNDR3800
 |||Netgear WNDRMAC
-|||D-LINK DOR-825 B1
+|||D-LINK DIR-825 B1
 | art-ar9280.bin | Wireless: AR9280 | TP-LINK TL-WR941N v4/v5
 | art-ar9280 (?).bin | | UBNT Multi Device |
 | art-ar9281.bin | Wireless: AR9281 | |
